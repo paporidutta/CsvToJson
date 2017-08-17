@@ -1,0 +1,9 @@
+C:\Users\Training\source\repos\Demo\Demo\bin\Debug\netcoreapp1.1\Demo.deps.json
+C:\Users\Training\source\repos\Demo\Demo\bin\Debug\netcoreapp1.1\Demo.runtimeconfig.json
+C:\Users\Training\source\repos\Demo\Demo\bin\Debug\netcoreapp1.1\Demo.runtimeconfig.dev.json
+C:\Users\Training\source\repos\Demo\Demo\bin\Debug\netcoreapp1.1\Demo.dll
+C:\Users\Training\source\repos\Demo\Demo\bin\Debug\netcoreapp1.1\Demo.pdb
+C:\Users\Training\source\repos\Demo\Demo\obj\Debug\netcoreapp1.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\Demo\Demo\obj\Debug\netcoreapp1.1\Demo.AssemblyInfo.cs
+C:\Users\Training\source\repos\Demo\Demo\obj\Debug\netcoreapp1.1\Demo.dll
+C:\Users\Training\source\repos\Demo\Demo\obj\Debug\netcoreapp1.1\Demo.pdb
