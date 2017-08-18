@@ -7,3 +7,4 @@ C:\Users\Training\source\repos\Demo\Demo\obj\Debug\netcoreapp1.1\Demo.csproj.Cor
 C:\Users\Training\source\repos\Demo\Demo\obj\Debug\netcoreapp1.1\Demo.AssemblyInfo.cs
 C:\Users\Training\source\repos\Demo\Demo\obj\Debug\netcoreapp1.1\Demo.dll
 C:\Users\Training\source\repos\Demo\Demo\obj\Debug\netcoreapp1.1\Demo.pdb
+C:\Users\Training\source\repos\Demo\Demo\obj\Debug\netcoreapp1.1\Demo.csprojResolveAssemblyReference.cache
