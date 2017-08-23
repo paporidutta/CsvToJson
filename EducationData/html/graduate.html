@@ -4,6 +4,7 @@
 <style>
     body {
         font: 10px sans-serif;
+        
     }
 
     .axis path,
@@ -16,6 +17,9 @@
     .x.axis path {
         display: none;
     }
+    svg {
+        background-color: aliceblue;
+    }
    
    
 </style>
@@ -24,7 +28,7 @@
     <script src="https://d3js.org/d3.v3.min.js"></script>
     <script>
 
-        var margin = { top: 150, right: 20, bottom: 150, left: 90 },
+        var margin = { top: 150, right: 20, bottom: 150, left: 150 },
             width = 1160 - margin.left - margin.right,
             height = 1000 - margin.top - margin.bottom;
 
