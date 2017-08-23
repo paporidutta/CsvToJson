@@ -1,176 +1,211 @@
 [
 {"state":"State - JAMMU & KASHMIR",
-"total":692484,
-"male":426555,
-"female":265929
+"values":[
+{"value":"692484","type":"total"},
+{"value":"426555","type":"male"},
+{"value":"265929","type":"female"}]
 },
 {"state":"State - HIMACHAL PRADESH",
-"total":517101,
-"male":293449,
-"female":223652
+"values":[
+{"value":"517101","type":"total"},
+{"value":"293449","type":"male"},
+{"value":"223652","type":"female"}]
 },
 {"state":"State - PUNJAB",
-"total":1919669,
-"male":960456,
-"female":959213
+"values":[
+{"value":"1919669","type":"total"},
+{"value":"960456","type":"male"},
+{"value":"959213","type":"female"}]
 },
 {"state":"State - CHANDIGARH",
-"total":206036,
-"male":111494,
-"female":94542
+"values":[
+{"value":"206036","type":"total"},
+{"value":"111494","type":"male"},
+{"value":"94542","type":"female"}]
 },
 {"state":"State - UTTARAKHAND",
-"total":1002397,
-"male":568963,
-"female":433434
+"values":[
+{"value":"1002397","type":"total"},
+{"value":"568963","type":"male"},
+{"value":"433434","type":"female"}]
 },
 {"state":"State - HARYANA",
-"total":1994600,
-"male":1183849,
-"female":810751
+"values":[
+{"value":"1994600","type":"total"},
+{"value":"1183849","type":"male"},
+{"value":"810751","type":"female"}]
 },
 {"state":"State - NCT OF DELHI",
-"total":2918192,
-"male":1636077,
-"female":1282115
+"values":[
+{"value":"2918192","type":"total"},
+{"value":"1636077","type":"male"},
+{"value":"1282115","type":"female"}]
 },
 {"state":"State - RAJASTHAN",
-"total":3526541,
-"male":2461922,
-"female":1064619
+"values":[
+{"value":"3526541","type":"total"},
+{"value":"2461922","type":"male"},
+{"value":"1064619","type":"female"}]
 },
 {"state":"State - UTTAR PRADESH",
-"total":10898205,
-"male":7086446,
-"female":3811759
+"values":[
+{"value":"10898205","type":"total"},
+{"value":"7086446","type":"male"},
+{"value":"3811759","type":"female"}]
 },
 {"state":"State - BIHAR",
-"total":3235648,
-"male":2471458,
-"female":764190
+"values":[
+{"value":"3235648","type":"total"},
+{"value":"2471458","type":"male"},
+{"value":"764190","type":"female"}]
 },
 {"state":"State - SIKKIM",
-"total":42848,
-"male":24812,
-"female":18036
+"values":[
+{"value":"42848","type":"total"},
+{"value":"24812","type":"male"},
+{"value":"18036","type":"female"}]
 },
 {"state":"State - ARUNACHAL PRADESH",
-"total":86937,
-"male":58823,
-"female":28114
+"values":[
+{"value":"86937","type":"total"},
+{"value":"58823","type":"male"},
+{"value":"28114","type":"female"}]
 },
 {"state":"State - NAGALAND",
-"total":165044,
-"male":96513,
-"female":68531
+"values":[
+{"value":"165044","type":"total"},
+{"value":"96513","type":"male"},
+{"value":"68531","type":"female"}]
 },
 {"state":"State - MANIPUR",
-"total":294135,
-"male":178447,
-"female":115688
+"values":[
+{"value":"294135","type":"total"},
+{"value":"178447","type":"male"},
+{"value":"115688","type":"female"}]
 },
 {"state":"State - MIZORAM",
-"total":95396,
-"male":56437,
-"female":38959
+"values":[
+{"value":"95396","type":"total"},
+{"value":"56437","type":"male"},
+{"value":"38959","type":"female"}]
 },
 {"state":"State - TRIPURA",
-"total":165796,
-"male":107556,
-"female":58240
+"values":[
+{"value":"165796","type":"total"},
+{"value":"107556","type":"male"},
+{"value":"58240","type":"female"}]
 },
 {"state":"State - MEGHALAYA",
-"total":154962,
-"male":77020,
-"female":77942
+"values":[
+{"value":"154962","type":"total"},
+{"value":"77020","type":"male"},
+{"value":"77942","type":"female"}]
 },
 {"state":"State - ASSAM",
-"total":1130319,
-"male":718327,
-"female":411992
+"values":[
+{"value":"1130319","type":"total"},
+{"value":"718327","type":"male"},
+{"value":"411992","type":"female"}]
 },
 {"state":"State - WEST BENGAL",
-"total":5355274,
-"male":3463977,
-"female":1891297
+"values":[
+{"value":"5355274","type":"total"},
+{"value":"3463977","type":"male"},
+{"value":"1891297","type":"female"}]
 },
 {"state":"State - JHARKHAND",
-"total":1532170,
-"male":1039975,
-"female":492195
+"values":[
+{"value":"1532170","type":"total"},
+{"value":"1039975","type":"male"},
+{"value":"492195","type":"female"}]
 },
 {"state":"State - ODISHA",
-"total":1965889,
-"male":1303987,
-"female":661902
+"values":[
+{"value":"1965889","type":"total"},
+{"value":"1303987","type":"male"},
+{"value":"661902","type":"female"}]
 },
 {"state":"State - CHHATTISGARH",
-"total":1216588,
-"male":799269,
-"female":417319
+"values":[
+{"value":"1216588","type":"total"},
+{"value":"799269","type":"male"},
+{"value":"417319","type":"female"}]
 },
 {"state":"State - MADHYA PRADESH",
-"total":3591389,
-"male":2311433,
-"female":1279956
+"values":[
+{"value":"3591389","type":"total"},
+{"value":"2311433","type":"male"},
+{"value":"1279956","type":"female"}]
 },
 {"state":"State - GUJARAT",
-"total":3471795,
-"male":2083498,
-"female":1388297
+"values":[
+{"value":"3471795","type":"total"},
+{"value":"2083498","type":"male"},
+{"value":"1388297","type":"female"}]
 },
 {"state":"State - DAMAN & DIU",
-"total":13349,
-"male":8774,
-"female":4575
+"values":[
+{"value":"13349","type":"total"},
+{"value":"8774","type":"male"},
+{"value":"4575","type":"female"}]
 },
 {"state":"State - DADRA & NAGAR HAVELI",
-"total":21779,
-"male":13880,
-"female":7899
+"values":[
+{"value":"21779","type":"total"},
+{"value":"13880","type":"male"},
+{"value":"7899","type":"female"}]
 },
 {"state":"State - MAHARASHTRA",
-"total":9505517,
-"male":5730823,
-"female":3774694
+"values":[
+{"value":"9505517","type":"total"},
+{"value":"5730823","type":"male"},
+{"value":"3774694","type":"female"}]
 },
 {"state":"State - ANDHRA PRADESH",
-"total":6307880,
-"male":4125374,
-"female":2182506
+"values":[
+{"value":"6307880","type":"total"},
+{"value":"4125374","type":"male"},
+{"value":"2182506","type":"female"}]
 },
 {"state":"State - KARNATAKA",
-"total":4496451,
-"male":2799580,
-"female":1696871
+"values":[
+{"value":"4496451","type":"total"},
+{"value":"2799580","type":"male"},
+{"value":"1696871","type":"female"}]
 },
 {"state":"State - GOA",
-"total":152131,
-"male":77010,
-"female":75121
+"values":[
+{"value":"152131","type":"total"},
+{"value":"77010","type":"male"},
+{"value":"75121","type":"female"}]
 },
 {"state":"State - LAKSHADWEEP",
-"total":4288,
-"male":2682,
-"female":1606
+"values":[
+{"value":"4288","type":"total"},
+{"value":"2682","type":"male"},
+{"value":"1606","type":"female"}]
 },
 {"state":"State - KERALA",
-"total":2662074,
-"male":1187364,
-"female":1474710
+"values":[
+{"value":"2662074","type":"total"},
+{"value":"1187364","type":"male"},
+{"value":"1474710","type":"female"}]
 },
 {"state":"State - TAMIL NADU",
-"total":6073079,
-"male":3495384,
-"female":2577695
+"values":[
+{"value":"6073079","type":"total"},
+{"value":"3495384","type":"male"},
+{"value":"2577695","type":"female"}]
 },
 {"state":"State - PUDUCHERRY",
-"total":154784,
-"male":87072,
-"female":67712
+"values":[
+{"value":"154784","type":"total"},
+{"value":"87072","type":"male"},
+{"value":"67712","type":"female"}]
 },
 {"state":"State - ANDAMAN & NICOBAR ISLANDS",
-"total":24580,
-"male":13832,
-"female":10748
+"values":[
+{"value":"24580","type":"total"},
+{"value":"13832","type":"male"},
+{"value":"10748","type":"female"}]
 }]

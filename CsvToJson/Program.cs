@@ -75,9 +75,11 @@ namespace CsvToJson
                 foreach (KeyValuePair<String, long> entry in stategraduateDictionary)
                     {
                         sb.AppendLine("{\"state\":" + "\"" + entry.Key + "\",");
-                        sb.AppendLine("\"total\":" + entry.Value + ",");
-                        sb.AppendLine("\"male\":"  + stategraduatemaleDictionary[entry.Key] + ",");
-                        sb.AppendLine("\"female\":" + stategraduatefemaleDictionary[entry.Key]);
+                sb.AppendLine("\"values\":[");
+                sb.AppendLine("{\"value\":" + "\"" + entry.Value + "\","+"\"type\":"+"\"total\"},");
+                sb.AppendLine("{\"value\":" + "\"" + stategraduatemaleDictionary[entry.Key] + "\"," + "\"type\":" + "\"male\"},");
+                sb.AppendLine("{\"value\":" + "\"" + stategraduatefemaleDictionary[entry.Key] + "\"," + "\"type\":" + "\"female\"}]");
+              
                         sb.AppendLine("},");
                     }
                 sb.Length = sb.Length - 3;//to remove the last comma from string builder

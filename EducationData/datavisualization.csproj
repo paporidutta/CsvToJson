@@ -66,9 +66,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Json\graduatepopulation.json" />
+    <Content Include="html\graduate.html" />
     <Content Include="Json\age.json" />
     <Content Include="Json\education-category.json" />
+    <Content Include="Json\graduatepopulation.json" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
