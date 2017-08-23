@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <meta charset="utf-8">
+
 <style>
     body {
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -40,7 +41,7 @@
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
-    var margin = { top: 10, right: 20, bottom: 200, left: 100 },
+    var margin = { top: 30, right: 20, bottom: 200, left: 100 },
         width = 900 - margin.left - margin.right,
         height = 900 - margin.top - margin.bottom;
 
@@ -77,7 +78,13 @@
 
         x.domain(data.map(function (d) { return d.age; }));
         y.domain([0, d3.max(data, function (d) { return d.literate; })]);
-
+        svg.append("text")
+            .attr("x", (width / 2))
+            .attr("y", 0 - (margin.top / 2))
+            .attr("text-anchor", "middle")
+            .style("font-size", "16px")
+            .style("text-decoration", "underline")
+            .text("Age-wise population distribution in terms of literate population.");
     
              svg.append("g")
             .attr("class", "x axis")
@@ -88,6 +95,8 @@
             .attr("dx", "-.8em")
             .attr("dy", "-.55em")
             .attr("transform", "rotate(-90)")
+
+
 
         svg.append("g")
             .attr("class", "y axis")

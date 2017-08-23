@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="html\graduate.html" />
+    <Content Include="html\HtmlPage1.html" />
     <Content Include="Json\age.json" />
     <Content Include="Json\education-category.json" />
     <Content Include="Json\graduatepopulation.json" />

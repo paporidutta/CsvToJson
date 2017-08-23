@@ -1,4 +1,5 @@
 ﻿<!DOCTYPE html>
+
 <meta charset="utf-8">
 <style>
     body {
@@ -19,6 +20,7 @@
    
 </style>
 <body>
+
     <script src="https://d3js.org/d3.v3.min.js"></script>
     <script>
 
@@ -65,7 +67,14 @@
             y.domain([0, 12000000]);
            // y.domain([0, d3.max(data, function (d) { return d.value; })]);
         
-           
+            svg.append("text")
+                .attr("x", (width / 2))
+                .attr("y", 0 - (margin.top / 2))
+                .attr("text-anchor", "middle")
+                .style("font-size", "16px")
+                .style("text-decoration", "underline")
+                .text("Graduate Population of India - State-wise & Gender-wise.");
+
             svg.append("g")
                 .attr("class", "x axis")
                 .attr("transform", "translate(0," + height + ")")
