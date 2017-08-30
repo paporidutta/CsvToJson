@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+[assembly: System.Reflection.AssemblyTitleAttribute("CsvToJson")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 namespace CsvToJson
 {
     class Mydata
@@ -124,7 +126,7 @@ namespace CsvToJson
             catch(IOException e) { Console.WriteLine("the file may be used by another resource: {0}", e.Message); }
          }
     }
-    class Program
+   static class Program
     {
         static void Main(string[] args)
         {
