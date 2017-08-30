@@ -120,8 +120,8 @@ namespace CsvToJson
                 }
                 Writedata();
             }
-            catch (FileNotFoundException ex) { Console.Write("The file does not exist in the current context",ex.Message); }
-            catch(IOException e) { Console.WriteLine("the file may be used by another resource", e.Message); }
+            catch (FileNotFoundException ex) { Console.Write("The file does not exist in the current context: {0}",ex.Message); }
+            catch(IOException e) { Console.WriteLine("the file may be used by another resource: {0}", e.Message); }
          }
     }
     class Program
